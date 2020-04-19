@@ -1,0 +1,4 @@
+#Sun Feb 02 20:31:47 IST 2020
+base.0=E\:\\dasith\\my_newdelivery-master\\deliveryapp\\BMI-Calculator-Flutter-Completed\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
